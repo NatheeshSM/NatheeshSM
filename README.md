@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... natheeshamr31@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...free fire Gamer 
+- ⚡ Fun fact: ...lazy for coding 
 
 <!---
 NatheeshSM/NatheeshSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
