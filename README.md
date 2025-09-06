@@ -1,6 +1,6 @@
 - Hi, I’m @NatheeshSM
 -  ASPIRING  CODING 
 -  I’m currently learning AI,ML,DL
--  I’m STRONG IN PYTHON 
+-  I’m INTERMEDIATE IN PYTHON 
 -  How to reach me ... natheeshamr31@gmail.com
 - LINKEDIN PROFILE:https://www.linkedin.com/in/natheesh-s-m-3183a3348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
