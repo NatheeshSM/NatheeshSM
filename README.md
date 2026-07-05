@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm NATHEESH SM
+# Hi 👋, I'm NatheeshSM
 
 ### 🚀 AI & Machine Learning Engineer | Problem Solver | Future Software Engineer
 
