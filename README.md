@@ -1,28 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Natheesh S M
+# Hi 👋, I'm NATHEESH 
 
-### 🚀 Artificial Intelligence & Machine Learning Engineer | Java Developer | Python Enthusiast | Problem Solver
+### 🚀 AI & Machine Learning Engineer | Problem Solver | Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Java+Developer;Python+Developer;Data+Science+Enthusiast;Open+Source+Learner;Future+Software+Engineer;Building+AI+Solutions+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Java+Programmer;Data+Science+Enthusiast;Open+Source+Contributor;Preparing+for+TCS+NQT+2026" />
 
-<br>
-
-<a href="https://github.com/NATHEESH-S-M-">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/natheesh-s-m-3183a3348">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:natheeshamr31@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=NATHEESH-S-M-&style=for-the-badge&color=0e75b6"/>
+</p>
 
 </div>
 
@@ -30,49 +25,40 @@
 
 # 💫 About Me
 
-🎓 Final Year B.Tech Artificial Intelligence & Machine Learning Student
+🎓 Final Year Artificial Intelligence & Machine Learning Student
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Software Development and Data Science.
+💻 Passionate about AI, Machine Learning and Software Development
 
-💻 I enjoy solving real-world problems using technology.
-
-🌱 Currently Learning
+🌱 Currently learning
 
 - Data Structures & Algorithms
-- Java
 - Machine Learning
-- Deep Learning
 - System Design
+- Python Development
 - Full Stack Development
 
-🏆 **Achievements**
+🏆 Achievements
 
-🥈 Think2Impact – Second Prize Winner
+🥈 Think2Impact - Second Prize Winner
 
 🚀 Smart India Hackathon Participant
 
-👨‍💼 Organizer – Elyndros Club
+🎯 Goal
 
-🎯 **Current Goal**
-
-- Crack TCS NQT
-- Secure an AI/ML or Software Development Internship
-- Become a Software Development Engineer
-
-📍 Tamil Nadu, India
+Become a Software Development Engineer (SDE) at a top product-based company.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/natheesh-s-m-3183a3348">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:natheeshamr31@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
@@ -81,69 +67,40 @@
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
-<p>
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### AI & Data Science
 
-<img src="https://skillicons.dev/icons?i=java"/>
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Scikit](https://skillicons.dev/icons?i=sklearn)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
-<img src="https://skillicons.dev/icons?i=c"/>
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-</p>
+### Tools
 
-## AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-</p>
-
-## Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![PowerBI](https://skillicons.dev/icons?i=azure)
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Powered Resume Builder | AI-based Resume Generator |
-| 🚌 College Bus Tracking System | Smart Transportation Tracking |
-| 📝 Interview Assessment Platform | AI Interview Evaluation |
-| 📊 Machine Learning Projects | ML Models & Datasets |
-| 💻 LeetCode Java Solutions | Daily DSA Practice |
+🔹 AI Powered Resume Builder
+
+🔹 Interview Assessment Platform
+
+🔹 TCS NQT Preparation Repository
 
 ---
 
@@ -151,29 +108,35 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NATHEESH-S-M-&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATHEESH-S-M-&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🛠 Tools & Technologies
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=NATHEESH-S-M-&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,opencv,git,github,vscode,html,css,javascript,postman"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🐍 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NATHEESH-S-M-&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
@@ -183,66 +146,26 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NATHEESH-S-M-&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Summary
+# 📊 Profile Summary
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NATHEESH-S-M-&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action before using this image.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/NATHEESH-S-M-/NATHEESH-S-M-/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve **500+ LeetCode Problems**
-- ✅ Master **Java & DSA**
-- ✅ Build **10+ AI Projects**
-- ✅ Learn **System Design**
-- ✅ Contribute to Open Source
-- ✅ Crack **TCS NQT**
-- ✅ Secure an AI/ML or SDE Internship
-- ✅ Become a Software Development Engineer
-
----
-
-# 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Java Development
-- Data Structures & Algorithms
-- Spring Boot
-- SQL
-- REST APIs
-
----
-
-# 💡 Quote
 
 <div align="center">
 
-### *"Turning ideas into intelligent solutions through code, curiosity, and continuous learning."*
+### 💡 "Code. Learn. Build. Repeat."
 
-⭐ **Thanks for visiting my profile!**
+⭐ From **Natheesh Kumar**
 
 </div>
