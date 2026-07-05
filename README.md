@@ -34,7 +34,7 @@
 - Data Structures & Algorithms
 - Machine Learning
 - System Design
-- Java Development
+- Python Development
 - Full Stack Development
 
 🏆 Achievements
