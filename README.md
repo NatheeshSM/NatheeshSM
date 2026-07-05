@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm NatheeshSM
+# Hi 👋, I'm NatheeshSM 
 
 ### 🚀 AI & Machine Learning Engineer | Problem Solver | Future Software Engineer
 
@@ -34,7 +34,7 @@
 - Data Structures & Algorithms
 - Machine Learning
 - System Design
-- Python Development
+- Java Development
 - Full Stack Development
 
 🏆 Achievements
@@ -126,46 +126,17 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,opencv,git,github,vscode,html,css,javascript,postman"/>
+<img src="https://skillicons.dev/icons?i=python,java,,mysql,tensorflow,opencv,git,github,vscode,html,css,javascript"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
 
 <div align="center">
 
 ### 💡 "Code. Learn. Build. Repeat."
 
-⭐ From **Natheesh Kumar**
+⭐ From **NatheeshSM**
 
 </div>
