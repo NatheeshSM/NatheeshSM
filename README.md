@@ -34,7 +34,6 @@
 - Machine Learning
 - System Design
 - Python Development
-- Full Stack Development
 
 🏆 Achievements
 
@@ -69,7 +68,6 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 ### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### AI & Data Science
