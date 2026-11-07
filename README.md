@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Machine Learning Engineer | Problem Solver | Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Java+Programmer;Data+Science+Enthusiast;Open+Source+Contributor;Preparing+for+TCS+NQT+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Data+Science+Enthusiast;Open+Source+Contributor;Preparing+for+TCS+NQT+2026" />
 
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME">
